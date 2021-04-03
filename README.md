@@ -1,1 +1,1 @@
-# mynet
+# Neteazy1.1
