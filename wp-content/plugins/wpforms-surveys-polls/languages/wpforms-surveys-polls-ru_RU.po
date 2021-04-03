@@ -1,0 +1,573 @@
+# Copyright (C) 2018 WPForms Surveys and Polls
+# This file is distributed under the same license as the WPForms Surveys and Polls package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Surveys and Polls\n"
+"POT-Creation-Date: 2018-02-12 13:43+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: src/Admin.php:80 src/Admin.php:179
+msgid "Enable Survey Reporting"
+msgstr "Включить отчеты исследования"
+
+#: src/Admin.php:81
+msgid "Check this option to track user input and include in survey reporting."
+msgstr ""
+"Отметьте, чтобы отслеживать ответы человека и вставить в результаты "
+"исследования."
+
+#: src/Admin.php:118 src/Reporting/Admin.php:328
+msgid "View Survey Results"
+msgstr "Посмотреть результаты исследования"
+
+#: src/Admin.php:119 src/Reporting/Admin.php:470
+msgid "Survey Results"
+msgstr "Результаты исследования"
+
+#: src/Admin.php:138 src/Admin.php:155
+msgid "Surveys and Polls"
+msgstr "Исследования и Опросы"
+
+#: src/Admin.php:156
+msgid "Click here for documentation on Surveys and Polls addon"
+msgstr ""
+"Нажмите здесь для получения документации по аддону Исследования и Опросы"
+
+#: src/Admin.php:162
+#, php-format
+msgid ""
+"Survey Reporting for all supported fields will be turned on. For more "
+"details and advanced survey options visit our <a href=\"%s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">Surveys documentation</a>."
+msgstr ""
+"Ответы по исследованию для всех поддерживаемых полей будет включена. Для "
+"получения дополнительной информации посетите нашу <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">документацию по Исследованиям</a>."
+
+#: src/Admin.php:188
+#, php-format
+msgid ""
+"Poll results for all Checkbox, Multiple Choice, and Drop fields will "
+"automatically display to users after they submit the form. For more details "
+"and advanced poll options visit our <a href=\"%s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Polls documentation</a>."
+msgstr ""
+"Результаты опроса для чекбоксов, радио-кнопок, выпадающего списка будут "
+"автоматически отображены пользователям после того, как они отправят форму. "
+"Для получения дополнительной информации посетите нашу <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">документация по Опросам</a>."
+
+#: src/Admin.php:205
+msgid "Enable Poll Results"
+msgstr "Включить результаты опроса"
+
+#: src/Fields/LikertScale.php:24 src/Reporting/Fields.php:415
+msgid "Likert Scale"
+msgstr "Шкала Лайкерта"
+
+#: src/Fields/LikertScale.php:31
+msgid "Item #1"
+msgstr "Пункт #1"
+
+#: src/Fields/LikertScale.php:32
+msgid "Item #2"
+msgstr "Пункт #2"
+
+#: src/Fields/LikertScale.php:33
+msgid "Item #3"
+msgstr "Пункт #3"
+
+#: src/Fields/LikertScale.php:36
+msgid "Strongly Disagree"
+msgstr "Категорически не согласны"
+
+#: src/Fields/LikertScale.php:37
+msgid "Disagree"
+msgstr "Не согласны"
+
+#: src/Fields/LikertScale.php:38 src/Templates/Survey.php:100
+#: src/Templates/Survey.php:119
+msgid "Neutral"
+msgstr "Нейтрально"
+
+#: src/Fields/LikertScale.php:39
+msgid "Agree"
+msgstr "Согласны"
+
+#: src/Fields/LikertScale.php:40
+msgid "Strongly Agree"
+msgstr "Совершенно согласны"
+
+#: src/Fields/LikertScale.php:292
+msgid "Rows"
+msgstr "Колонки"
+
+#: src/Fields/LikertScale.php:293
+msgid "Add rows to the likert scale."
+msgstr "Добавить строки в шкалу Лайкерта."
+
+#: src/Fields/LikertScale.php:308
+msgid "Add likert scale row"
+msgstr "Добавить строку в шкалу Лайкерта"
+
+#: src/Fields/LikertScale.php:309
+msgid "Remove likert scale row"
+msgstr "Удалить строку в шкале Лайкерта"
+
+#: src/Fields/LikertScale.php:330
+msgid "Make this a single-row rating scale"
+msgstr "Однострочная рейтинговая шкала"
+
+#: src/Fields/LikertScale.php:331
+msgid ""
+"Check this option to make this a single-row rating scale and remove the row "
+"choices."
+msgstr ""
+"Отметьте, чтобы превратить шкалу в однострочную и удалить колонки выбора "
+"ответа."
+
+#: src/Fields/LikertScale.php:350
+msgid "Allow multiple responses per row"
+msgstr "Несколько ответов для каждой строки"
+
+#: src/Fields/LikertScale.php:351
+msgid ""
+"Check this option to allow multiple responses per row (uses checkboxes)."
+msgstr ""
+"Отметьте, если хотите разрешить несколько ответов на одной строке "
+"(используются чекбоксы)."
+
+#: src/Fields/LikertScale.php:365
+msgid "Columns"
+msgstr "Колонки"
+
+#: src/Fields/LikertScale.php:366
+msgid "Add columns to the likert scale."
+msgstr "Добавить колонки в шкалу Лайкерта."
+
+#: src/Fields/LikertScale.php:375
+msgid "Add likert scale column"
+msgstr "Добавить колонку в шкалу Лайкерта"
+
+#: src/Fields/LikertScale.php:376
+msgid "Remove likert scale column"
+msgstr "Удалить колонку в шкале Лайкерта"
+
+#: src/Fields/LikertScale.php:411
+msgid "Style"
+msgstr "Стиль"
+
+#: src/Fields/LikertScale.php:412
+msgid "Select the style for the likert scale."
+msgstr "Выберите стиль для шкалы Лайкерта."
+
+#: src/Fields/LikertScale.php:423
+msgid "Modern"
+msgstr "Современный"
+
+#: src/Fields/LikertScale.php:424
+msgid "Classic"
+msgstr "Классический"
+
+#: src/Fields/LikertScale.php:677
+msgid "(Empty)"
+msgstr "(Пусто)"
+
+#: src/Polls.php:165
+#, php-format
+msgid "(%d votes)"
+msgstr "(голосов: %d)"
+
+#: src/Polls.php:189
+#, php-format
+msgid "Total Votes: %d"
+msgstr "Всего голосов: %d"
+
+#: src/Reporting/Admin.php:331
+msgid "or"
+msgstr "или"
+
+#: src/Reporting/Admin.php:333
+msgid "View another question"
+msgstr "Посмотреть другой вопрос"
+
+#: src/Reporting/Admin.php:471
+msgid "Back to All Entries"
+msgstr "Назад ко всем записям"
+
+#: src/Reporting/Admin.php:475
+msgid "Select Form"
+msgstr "Выберите форму"
+
+#: src/Reporting/Admin.php:483
+msgid "Open form selector"
+msgstr "Открыть переключатель форм"
+
+#: src/Reporting/Admin.php:506
+msgid "Edit This Form"
+msgstr "Редактировать форму"
+
+#: src/Reporting/Admin.php:510
+msgid "Preview Form"
+msgstr "Предпросмотр формы"
+
+#: src/Reporting/Admin.php:514
+msgid "Download Export (CSV)"
+msgstr "Скачать экспорт (CSV)"
+
+#: src/Reporting/Admin.php:518
+msgid "Print Survey Report"
+msgstr "Печать отчета исследования"
+
+#: src/Reporting/Admin.php:543
+msgid "WPForms Survey Print Preview"
+msgstr "Предпросмотр печати исследования WPForms"
+
+#: src/Reporting/Admin.php:556
+msgid "Close"
+msgstr "Закрыть"
+
+#: src/Reporting/Admin.php:557 src/Reporting/Admin.php:638
+msgid "Print"
+msgstr "Печать"
+
+#: src/Reporting/Admin.php:592
+msgid "Calculating Field Results"
+msgstr "Загружаем результаты по полю"
+
+#: src/Reporting/Admin.php:595
+msgid "Calculating Survey Results"
+msgstr "Загружаем результаты исследования"
+
+#: src/Reporting/Admin.php:596
+msgid "We're crunching the numbers, this may take a minute."
+msgstr "Мы обрабатываем данные, это может занять несколько минут."
+
+#: src/Reporting/Admin.php:624
+msgid "Toggle displaying question"
+msgstr "Переключить отображение вопроса"
+
+#: src/Reporting/Admin.php:633
+msgid "Export"
+msgstr "Экспорт"
+
+#: src/Reporting/Admin.php:635
+msgid "Save as JPG"
+msgstr "JPG"
+
+#: src/Reporting/Admin.php:636
+msgid "Save as PDF"
+msgstr "PDF"
+
+#: src/Reporting/Admin.php:643
+msgid "View line chart"
+msgstr "Посмотреть линейный график"
+
+#: src/Reporting/Admin.php:646
+msgid "View pie chart"
+msgstr "Посмотреть круговую диаграмму"
+
+#: src/Reporting/Admin.php:649
+msgid "View horizontal bar chart"
+msgstr "Посмотреть горизонтальную гистограмму"
+
+#: src/Reporting/Admin.php:652
+msgid "View bar chart"
+msgstr "Посмотреть гистограмму"
+
+#: src/Reporting/Admin.php:657
+msgid "Question"
+msgstr "Вопрос"
+
+#: src/Reporting/Admin.php:664
+msgid "There are no answers to this question yet."
+msgstr "Пока нет ответов на этот вопрос."
+
+#: src/Reporting/Admin.php:673
+msgid "Download Chart"
+msgstr "Скачать диаграмму"
+
+#: src/Reporting/Admin.php:679 src/Reporting/Admin.php:731
+msgid "Answers"
+msgstr "Ответы"
+
+#: src/Reporting/Admin.php:680
+msgid "Responses"
+msgstr "Результаты"
+
+#: src/Reporting/Admin.php:732
+msgid "Date"
+msgstr "Дата"
+
+#: src/Reporting/Admin.php:737
+msgid "View respondent's answers"
+msgstr "Посмотреть ответы респондентов"
+
+#: src/Reporting/Admin.php:746
+msgid "Answered"
+msgstr "Отвечено"
+
+#: src/Reporting/Admin.php:751
+msgid "Average"
+msgstr "В среднем"
+
+#: src/Reporting/Admin.php:756
+msgid "Skipped"
+msgstr "Пропущено"
+
+#: src/Reporting/Fields.php:117
+#, php-format
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] "%s звезда"
+msgstr[1] "%s звезды"
+msgstr[2] "%s звезд"
+
+#: src/Reporting/Fields.php:121
+#, php-format
+msgid "%s heart"
+msgid_plural "%s hearts"
+msgstr[0] "%s сердце"
+msgstr[1] "%s сердца"
+msgstr[2] "%s сердец"
+
+#: src/Reporting/Fields.php:125
+#, php-format
+msgid "%s thumb"
+msgid_plural "%s thumbs"
+msgstr[0] "%s большой палец"
+msgstr[1] "%s больших пальца"
+msgstr[2] "%s больших пальцев"
+
+#: src/Reporting/Fields.php:129
+#, php-format
+msgid "%s smiley"
+msgid_plural "%s smileys"
+msgstr[0] "%s смайлик"
+msgstr[1] "%s смайлика"
+msgstr[2] "%s смайликов"
+
+#: src/Reporting/Fields.php:391
+msgid "Single Line Text"
+msgstr "Строка текста"
+
+#: src/Reporting/Fields.php:395
+msgid "Paragraph Text"
+msgstr "Текст"
+
+#: src/Reporting/Fields.php:399
+msgid "Dropdown"
+msgstr "Выпадающий список"
+
+#: src/Reporting/Fields.php:403
+msgid "Multiple Choice"
+msgstr "Радио-кнопки"
+
+#: src/Reporting/Fields.php:407
+msgid "Checkboxes"
+msgstr "Чекбоксы"
+
+#: src/Reporting/Fields.php:411
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: src/Templates/Poll.php:23
+msgid "Poll Form"
+msgstr "Форма опроса"
+
+#: src/Templates/Poll.php:25
+msgid ""
+"Ask visitors a question and display the results after they provide an answer."
+msgstr ""
+"Задать посетителям вопрос и показать им результаты после того, как они "
+"ответят."
+
+#: src/Templates/Poll.php:36
+msgid "What is your favorite color?"
+msgstr "Какой ваш любимый цвет?"
+
+#: src/Templates/Poll.php:41
+msgid "Red"
+msgstr "Красный"
+
+#: src/Templates/Poll.php:45
+msgid "Green"
+msgstr "Зеленый"
+
+#: src/Templates/Poll.php:49
+msgid "Blue"
+msgstr "Синий"
+
+#: src/Templates/Poll.php:53
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: src/Templates/Poll.php:57
+msgid "Purple"
+msgstr "Фиолетовый"
+
+#: src/Templates/Poll.php:61
+msgid "Other"
+msgstr "Другой"
+
+#: src/Templates/Poll.php:68
+msgid "Vote"
+msgstr "Голосовать"
+
+#: src/Templates/Poll.php:71
+msgid "Thanks for voting! Results are below."
+msgstr "Спасибо за ваш голос! Результаты представлены ниже."
+
+#: src/Templates/Poll.php:72 src/Templates/Survey.php:135
+msgid "Sending..."
+msgstr "Отправка..."
+
+#: src/Templates/Survey.php:23
+msgid "Survey Form"
+msgstr "Форма исследования"
+
+#: src/Templates/Survey.php:25
+msgid ""
+"Collect customer feedback, then generate survey reports to determine "
+"satisfaction and spot trends."
+msgstr ""
+"Собирайте обратную связь, затем генерируйте отчеты по исследованиям для "
+"выявления уровня удовлетворения и трендов."
+
+#: src/Templates/Survey.php:36
+msgid "Name"
+msgstr "Имя"
+
+#: src/Templates/Survey.php:44
+msgid "Email"
+msgstr "Email"
+
+#: src/Templates/Survey.php:52
+msgid "Your Experience"
+msgstr "Ваш опыт"
+
+#: src/Templates/Survey.php:53
+msgid "Overall, how would you rate you experience with us?"
+msgstr "В целом, как бы вы оценили ваш опыт с нами?"
+
+#: src/Templates/Survey.php:63
+msgid "How can we improve?"
+msgstr "Как мы можем улучшить?"
+
+#: src/Templates/Survey.php:64
+msgid ""
+"We're sorry you did not have a good experience. Please let us know how we "
+"can do better."
+msgstr ""
+"Нам очень жаль, что вас был плохой опыт. Пожалуйста, дайте нам знать, что "
+"нам нужно улучшить."
+
+#: src/Templates/Survey.php:89
+msgid "How satisfied are you with"
+msgstr "Насколько вы удовлетворены"
+
+#: src/Templates/Survey.php:93
+msgid "Purchase"
+msgstr "Покупкой"
+
+#: src/Templates/Survey.php:94
+msgid "Service"
+msgstr "Обслуживанием"
+
+#: src/Templates/Survey.php:95
+msgid "Company Overall"
+msgstr "Компанией в целом"
+
+#: src/Templates/Survey.php:98
+msgid "Very Unsatisfied"
+msgstr "Очень недовольны"
+
+#: src/Templates/Survey.php:99
+msgid "Unsatisfied"
+msgstr "Недовольны"
+
+#: src/Templates/Survey.php:101
+msgid "Satisfied"
+msgstr "Довольны"
+
+#: src/Templates/Survey.php:102
+msgid "Very Satisfied"
+msgstr "Очень довольны"
+
+#: src/Templates/Survey.php:108
+msgid "How likely are you to"
+msgstr "Насколько вероятно вы"
+
+#: src/Templates/Survey.php:112
+msgid "Buy from us again"
+msgstr "Купите у нас еще раз"
+
+#: src/Templates/Survey.php:113
+msgid "Recommend our product to others"
+msgstr "Порекомендуете наш продукт другим"
+
+#: src/Templates/Survey.php:114
+msgid "Recommend our company to others"
+msgstr "Порекомендуете нашу компанию другим"
+
+#: src/Templates/Survey.php:117
+msgid "Very Unlikely"
+msgstr "Маловероятно"
+
+#: src/Templates/Survey.php:118
+msgid "Unlikely"
+msgstr "Маловероятно"
+
+#: src/Templates/Survey.php:120
+msgid "Likely"
+msgstr "Возможно"
+
+#: src/Templates/Survey.php:121
+msgid "Very Likely"
+msgstr "Весьма вероятно"
+
+#: src/Templates/Survey.php:127
+msgid "Additional comments or suggestions"
+msgstr "Дополнительные комментарии или предложения"
+
+#: src/Templates/Survey.php:132
+msgid "Submit"
+msgstr "Отправить"
+
+#: wpforms-surveys-polls.php:64
+#, php-format
+msgid ""
+"The WPForms Surveys and Poll plugin has been deactivated. Your site is "
+"running an outdated version of PHP that is no longer supported and is not "
+"compatible with the Surveys and Polls addon. <a href=\"%s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">Read more</a> for additional information."
+msgstr ""
+"Плагин WPForms Исследования и Опросы был деактивирован. Ваш сайт работает на "
+"устаревшей версии PHP, которая больше не поддерживание и не совместима с "
+"этим плагином. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Прочтите больше</a> для получения дополнительно информации."
+
+#~ msgid "Mark All Read"
+#~ msgstr "Отметить все прочитанным"
+
+#~ msgid "Delete All"
+#~ msgstr "Удалить все"
+
+#~ msgid "View survey results"
+#~ msgstr "Посмотреть результаты исследования"

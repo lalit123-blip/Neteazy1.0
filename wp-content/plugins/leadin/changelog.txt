@@ -1,0 +1,429 @@
+= 7.52.0 (2021-03-08) =
+* Updated getting started checklist to use OAuth2 API's
+
+= 7.51.201 (2021-03-08) =
+* Added translations to the disconnect feedback form.
+
+= 7.51.155 (2021-03-01) =
+* Allow the UI to make requests to the HubSpot proxy
+
+= 7.51.108 (2021-02-23) =
+* Update questions on deactivation feedback
+
+= 7.51.41 (2021-02-09) =
+* Remove unused code
+
+= 7.51.16 (2021-02-04) =
+* Update text copy for error handler in the Gutenberg block.
+
+= 7.51.0 (2021-02-02) =
+* Add activate and redirect actions
+
+= 7.50.64 (2021-01-28) =
+* Fix the builder for the signup URLs
+
+= 7.50.46 (2021-01-25) =
+* Introduce OAuth2 after signup. This change is still disabled in this build.
+
+= 7.50.9 (2021-01-18) =
+* Prevent the HubSpot load script gets published with double id.
+
+= 7.50.0 (2021-01-15) =
+* Introduce OAuth2 flow on the gutenberg block logic. This change is still disabled in the build
+* Refresh expired OAuth2 tokens
+
+= 7.49.0 (2021-01-14) =
+* Initial infrastructure for using OAuth authorisation is added. This form of authorisation is still disabled in this build.
+
+= 7.48.69 (2020-12-17) =
+* Remove legacy code
+* Limit the error logging
+
+= 7.48.63 (2020-12-15) =
+* Fix the search method in the HubSpot Gutenberg block
+
+= 7.48.45 (2020-12-09) =
+* Check that function which doesn't exist before WP 4.2 exists
+
+= 7.48.19 (2020-12-02) =
+* Fix typo that caused forms not to show on IE11
+
+= 7.48.0 (2020-11-26) =
+* Automated plugin versioning and changelog generation
+
+= 7.47.5 (2020-11-18) =
+* Do not fail connection for an invalid domain
+
+= 7.47.4 (2020-11-17) =
+* Do not redefine the create property for hbspt.forms if it has been set already
+
+= 7.47.3 (2020-11-09) =
+* Fix deprecation warning caused by calling a non-static method statically
+* Fix forms script hidden in some websites
+* Define filters to set the values of the capabilities to connect the plugin and view the plugin menu
+
+= 7.47.0 (2020-11-02) =
+* Include the forms loader script only once in the page when a form is added.
+
+= 7.46.2 (2020-10-27) =
+* Released the updated user guide
+* Fix forms rendering on IE11
+
+= 7.45.6 (2020-10-19) =
+* Use https instead of relative-protocol URLs for HubSpot scripts
+* Define custom filters instead of constants for HubSpot properties
+
+= 7.45.4 (2020-10-11) =
+* Fix iframe communication for IE11
+* Fix for JS error when it is re-executed by jQuery and attempting to modify an immutable object
+
+= 7.44.6 (2020-09-29) =
+* Added a demo of the tools for new users
+* Redesigned the intro page
+
+= 7.43.4 (2020-09-13) =
+* Fix login flow from the gutenberg block
+* Log error when requests are blocked by a browser extension
+
+= 7.42.3 (2020-09-06) =
+* Bump the latest WordPress version where the plugin has been tested
+* Create a new WordPress specific report page
+* Add a monitor to the Hubspot gutenberg block preview render
+
+= 7.41.1 (2020-08-31) =
+* Generate a reporting dashboard if none exists
+
+= 7.41.0 (2020-08-24) =
+* Hide menu items when unauthenticated
+
+= 7.40.0 (2020-08-16) =
+* Update the latest version the plugin has been tested on
+* Redesign the Getting Started experience
+* Fix the signup progression bar on the intro page
+* Add the correct highlighting of sidebar menu items when redirected from inside the plugin
+
+= 7.39.5 (2020-08-10) =
+* Add a script that fetches contact properties from HubSpot
+* Renamed "Dashboard" to "Setup Guide"
+
+= 7.38.1 (2020-08-03) =
+* Embed Live Chat inside the plugin
+* Saving the Gutenberg block as a shortcode to fix an error with parsing a previously saved block
+
+= 7.37.2 (2020-07-26) =
+* Embed the email app now as part of the plugin
+* Rename "Advanced Features" menu item to "Upgrade"
+
+= 7.36.3 (2020-07-19) =
+* Fixed syncing of the URL between the iframe and WordPress
+
+= 7.36.1 (2020-07-12) =
+* Add Tracking consent banner and the logic to communicate the consent to the embedded signup
+* Prevent the integer value passed to rand to overflow and being stored as float when the site runs on a 32 bit system
+
+= 7.35.4 (2020-07-02) =
+* Pass a div ID to the form create function where the form will be appended
+
+= 7.35.2 (2020-07-01) =
+* Update text on the plugin listing page
+* Make the forms creation code independent of the order which the files are parsed
+
+= 7.35.1 (2020-06-28) =
+* Allow users to try the plugin before signup
+* Enable an API which will allow pre-signup demo eperience
+
+= 7.34.0 (2020-06-09) =
+* Pass device id to the iframe to show tracking consent banner
+
+= 7.32.6 (2020-05-25) =
+* Remove unused function
+
+= 7.32.3 (2020-05-17) =
+* Show default reporting dashboard instead of Marketing Dashboard
+* Fix broken link on Dashboard page
+* Added user account name to login screen
+
+= 7.31.1 (2020-05-10) =
+* Allow alternate url for different page's sub-route
+* Create filter for affiliate links
+
+= 7.30.5 (2020-05-04) =
+* Sanitize portal domain on connect to remove the URL protocol
+
+= 7.30.4 (2020-04-26) =
+* Update translations
+
+= 7.30.2 (2020-04-21) =
+* Fixed broken settings link on the dashboard page
+* Remove query parameter from iframe
+* Re-enable review tool
+
+= 7.29.4 (2020-04-14) =
+* Rename Dashboard and Getting started menus
+* Fix broken link in settings menu
+* Add background iframe in all pages using Gutenberg
+* Updated wordpress latest version tested
+
+= 7.28.1 (2020-04-06) =
+* Fix error message when connecting after sign up
+
+= 7.28.0 (2020-04-05) =
+* Added user account information to the settings page
+* Added Covid-19 information banner
+
+= 7.27.48 (2020-03-31) =
+* Disable review notice
+
+= 7.27.47 (2020-03-29) =
+* Define a new way to update changelog
+* Updated translations
+* remove unused variables
+* fixed linting
+
+= 7.26.18 (2020-03-16) =
+* Fix login screen when not authenticated
+
+= 7.25.2 (2020-03-11) =
+* Rename configuration files
+
+= 7.24.8 (2020-03-10) =
+* Create iframe on javascript rather than PHP.
+
+= 7.22.6 (2020-03-02) =
+* Update iframe static version
+
+= 7.23.0 (2020-03-02) =
+* Update acceptance tests
+* Update translations files
+
+= 7.21.22 (2020-02-28) =
+* Fix broken CTAs
+* Load iframe after the page is loaded
+
+= 7.20.13 (2020-02-24) =
+* Add missing translations
+* Update author's URL
+* Fix getting started page not loading
+
+= 7.19.146 (2020-02-19) =
+* New getting started page
+* Update forms builder to not open full screen
+* Fix broken login screen when not authenticated
+* Create new settings page
+* Improve connection flow and fix known bugs
+* Refactor code into classes
+
+= 7.18.81 (2020-01-15) =
+* Make the usage of the plugin API consistent from the UI and setup CORS
+* Setup Autoloader on the PHP code
+* Refactor the PHP section of the plugin and use of namespaces
+* Refactor and update the inteframe communication library
+
+= 7.16.1 (2019-11-13) =
+* Update version of loaded iframe
+
+= 7.17.2 (2019-11-13) =
+* Fix missing disconnect button
+
+= 7.15.11 (2019-10-23) =
+* Prevent wordpress notices flash when navigating through the plugin menu
+* Improve UI of reminder notice on the WP dashboard
+* Redirects to login page when the user is not authenticated
+* Add Contacts and Lists to the plugin
+
+= 7.14.1 (2019-10-09) =
+* Verify email on signup
+* Remove version from tracking code
+* Redirect from top level menu to dashboard
+* Add HubSpot dashboard
+* Fix navbar showing on the form pag
+
+= 7.13.11 (2019-10-09) =
+* Automatic connection when only one portal is available
+
+= 7.12.14 (2019-09-25) =
+* Add new forms dashboard
+* Add "Advanced Features" link in menu
+
+= 7.11.0 (2019-09-15) =
+* Create new connection banner
+* Refactor iframe communication
+* Change minimum role from "Subscriber" to "Contributor"
+* Fix spinner position
+* Ask for feedback before deactivating
+
+= 7.10.0 (2019-08-28) =
+* Fix duplicate tracking code
+* Fix layout with Update WordPress banner
+* Redirect after plugin activation
+* Add information to the login screen
+* Update connection banner
+
+= 7.9.2 (2019-08-19) =
+* Fix infinite loading in pages editor for Gutenberg Forms block
+* Updated translations
+
+= 7.9.1 (2019-08-14) =
+* Fix register_block_type does not exist error.
+
+= 7.9.0 (2019-08-13) =
+* Add HubSpot Form Gutenberg Block
+
+= 7.8.0 (2019-08-07) =
+* Replace activate_plugins with manage_options
+* Upgrade wordpress-scripts
+* Remove tracking code from login page
+* Added Logo svg for banner
+
+= 7.6.0 (2019-07-18) =
+* Remove echo from enqueue_scripts hooks
+* Update url on forms dashboard
+* Add nonce checks on connect/disconnect APIs
+* Sanitize portal id on connect APIs
+* Remove queries to DB
+* Update plugin permissions
+* Update `leadin_route` query parameter
+* Remove HTML from translations
+* Remove notice for outdated plugin
+* Remove unused options
+* Escape variables
+* Avoid phpcs errors on file_get_contents
+* Fix mispelled WordPress
+
+= 7.5.5 (2019-07-15) =
+* Fix comment escaping
+* Remove unused cookie (fix error message on activation)
+* Lock iframe to plugin version
+* Add unit tests for JS
+* Update readme.txt
+* Sanitize inputs
+* Sync route with plugin
+
+= 7.5.3 (2019-06-25) =
+* Rename "chatflow" to "live chat"
+* Update readme.txt
+* Update banners
+* Fix themes colors
+* Refactor code style
+
+= 7.5.4 (2019-06-25) =
+* Hotfix
+
+= 7.5.2 (2019-06-13) =
+* Add webpack and use ES6
+* Show "complete your signup" banner for WPEngine themes
+* Auto-generate assets and update styles for WPEngine themes
+* Handle messages timeout errors
+* Fix navigation in single page app
+* Enable non-HubSpot forms by default
+* Add forms tab in settings
+* Add form builder to WordPress
+
+= 7.5.1 (2019-05-28) =
+* Fix version flags
+* Add unit tests
+* Add languages
+
+= 7.5.0 (2019-05-21) =
+* Add banner to inform users if the version is outdated
+* Add notification that informs user if something is not working on our servers
+* Reload window when connection happens on a different tab
+* Reduce loading time for non authenticated users
+* Improve performances when navigating between pages
+* Add tests
+
+= 7.4.1 (2019-05-06) =
+* Implement faster navigation
+* Fix signup url
+* Use i18n on PHP
+
+= 7.4.0 (2019-04-29) =
+* Improve performances
+* Remove dependencies from HubSpot's CDN
+* Update license
+
+= 7.3.2 (2019-04-23) =
+* Move assets to /assets folder
+* New settings page
+* Improve forms page loading time
+
+= 7.3.0 (2019-04-16) =
+* Drop support for PHP<5.6
+* Drop support for WP<4
+* Removed hubspot from admin top bar
+
+= 7.3.1 (2019-04-16) =
+* Fix missing assets
+
+= 7.2.2 (2019-04-08) =
+* Fix for whitespace bug
+
+= 7.2.1 (2019-04-07) =
+* Added link to Chatflows
+
+= 7.1.1 (2019-04-02) =
+* Remove OAuth step from signup
+* Fix assets in listing
+
+= 7.2.0 (2019-04-02) =
+* Add background iframe
+
+= 7.1.0 (2019-03-31) =
+* Remove slumber/oauth mode
+* Fix icon in top menu
+* Add help widget
+* Update message on connection error
+* April fool prank
+
+= 7.0.7 (2019-03-25) =
+* Add helpers for acceptance tests
+* Remove dialog on settings page
+* Load forms script from right environment
+* Test on PHP 5.6
+* Design fixes on the intro page
+
+= 7.0.6 (2019-03-08) =
+* Add debug helpers
+
+= 7.0.5 (2019-03-05) =
+* Update description to explain how plugin provides WordPress CRM
+* Fix connection to wrong portal id
+* Add pop-up on login page
+* Add intro screen for un-logged users
+* Update HubSpot forms script
+* Disable "Create form" when user has no permissions
+* Skip authorization token verification
+* Test with most popular plugins
+
+= 7.0.4 (2019-02-19) =
+* Show welcome dialog after connection
+* Remove extra navigation in connection flow
+* Add pre-fill to signup form
+* Add plugin version to HTML comment
+* Fix enqueue style error
+
+= 7.0.3 (2019-02-12) =
+* Update HubSpot logos
+
+= 7.0.2 (2019-01-22) =
+* Plugin readme update
+* Fix wrong settings link
+
+= 7.0.1 (2018-10-11) =
+* Send page analytics data into HubSpot
+
+= 7.0.0 (2018-10-02) =
+* Add deeper integration with HubSpot. Starts a new release of a new forms integration within WordPress. Released progressively for some users.
+
+= 6.1.12 (2018-09-13) =
+* Internal update
+
+= 6.1.11 (2018-08-29) =
+* Plugin description update
+
+= 6.1.10 (2018-08-27) =
+* Plugin readme update
+
+= 6.1.8 (2018-07-26) =
+* Plugin description updated to describe HubSpot Conversion Tools
+

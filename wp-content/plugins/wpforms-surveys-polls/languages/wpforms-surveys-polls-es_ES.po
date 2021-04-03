@@ -1,0 +1,668 @@
+# Copyright (C) 2019 WPForms Surveys and Polls
+# This file is distributed under the same license as the WPForms Surveys and Polls package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# Luis Rull <luisrull@gmail.com>, 2019
+# Nilo Velez <nilovelez@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Surveys and Polls\n"
+"Last-Translator: Nilo Velez <nilovelez@gmail.com>, 2019\n"
+"Language-Team: Spanish (Spain) (https://www.transifex.com/wp-translations/teams/64435/es_ES/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. translators: %s - WPForms.com documentation page URL.
+#: wpforms-surveys-polls.php:63
+msgid ""
+"The WPForms Surveys and Poll plugin has been deactivated. Your site is "
+"running an outdated version of PHP that is no longer supported and is not "
+"compatible with the Surveys and Polls addon. <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">Read more</a> for additional "
+"information."
+msgstr ""
+"El plugin WPForms Surveys and Poll ha sido desactivado. Tu sitio está "
+"ejecutando una versión obsoleta de PHP que no tiene soporte y que no es "
+"compatible con la extensión Surveys and Polls. <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">Lee esto</a> para obtener más "
+"información."
+
+#: src/Admin.php83, src/Admin.php:182
+msgid "Enable Survey Reporting"
+msgstr "Activar los informes de encuestas"
+
+#: src/Admin.php:84
+msgid "Check this option to track user input and include in survey reporting."
+msgstr ""
+"Marca esta opción para monitorizar las entradas de los usuarios e incluirlas"
+" en los informes de las encuestas."
+
+#: src/Admin.php121, src/Reporting/Admin.php:324
+msgid "View Survey Results"
+msgstr "Ver resultados de las encuestas"
+
+#: src/Admin.php122, src/Reporting/Admin.php:467
+msgid "Survey Results"
+msgstr "Resultados de las encuestas"
+
+#: src/Admin.php141, src/Admin.php:158
+msgid "Surveys and Polls"
+msgstr "Surveys and Polls"
+
+#: src/Admin.php:159
+msgid "Click here for documentation on Surveys and Polls addon"
+msgstr ""
+"Haz clic aquí para obtener documentación sobre el complemento de encuestas y"
+" encuestas addon"
+
+#. translators: %s - WPForms.com documentation page URL.
+#: src/Admin.php:165
+msgid ""
+"Survey Reporting for all supported fields will be turned on. For more "
+"details and advanced survey options visit our <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">Surveys documentation</a>."
+msgstr ""
+"Los informes de encuestas para todos los campos admitidos será activados. "
+"Para más detalles y opciones avanzadas de encuestas visita nuestra <a "
+"href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">documentación "
+"sobre encuestas</a>."
+
+#. translators: %s - WPForms.com documentation page URL.
+#: src/Admin.php:191
+msgid ""
+"Poll results for all Checkbox, Multiple Choice, and Dropdown fields will "
+"automatically display to users after they submit the form. For more details "
+"and advanced poll options visit our <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Polls documentation</a>."
+msgstr ""
+"Los resultados de la encuesta para todos los campos casilla de verificación,"
+" selección múltiple y desplegable se mostrarán automáticamente a los "
+"usuarios después de enviar el formulario. Para más detalles y opciones "
+"avanzadas de sondeo visite nuestra <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">documentación de cuestionarios</a>."
+
+#: src/Admin.php:208
+msgid "Enable Poll Results"
+msgstr "Activar resultados de votación"
+
+#. translators: %d - votes count.
+#: src/Polls.php:165
+msgid "(%d vote)"
+msgid_plural "(%d votes)"
+msgstr[0] "(%d voto)"
+msgstr[1] "(%d votos)"
+
+#. translators: %d - total votes.
+#: src/Polls.php:189
+msgid "Total Votes: %d"
+msgstr "Total de votos: %d"
+
+#: src/Fields/LikertScale.php24, src/Reporting/Fields.php:479
+msgid "Likert Scale"
+msgstr "Escala Likert"
+
+#: src/Fields/LikertScale.php:31
+msgid "Item #1"
+msgstr "Elemento #1"
+
+#: src/Fields/LikertScale.php:32
+msgid "Item #2"
+msgstr "Elemento #2"
+
+#: src/Fields/LikertScale.php:33
+msgid "Item #3"
+msgstr "Elemento #3"
+
+#: src/Fields/LikertScale.php:36
+msgid "Strongly Disagree"
+msgstr "Completamente en desacuerdo"
+
+#: src/Fields/LikertScale.php:37
+msgid "Disagree"
+msgstr "En desacuerdo"
+
+#: src/Fields/LikertScale.php38, src/Templates/Survey.php100,
+#: src/Templates/Survey.php:119
+msgid "Neutral"
+msgstr "Neutral"
+
+#: src/Fields/LikertScale.php:39
+msgid "Agree"
+msgstr "De acuerdo"
+
+#: src/Fields/LikertScale.php:40
+msgid "Strongly Agree"
+msgstr "Completamente de acuerdo"
+
+#: src/Fields/LikertScale.php:378
+msgid "Rows"
+msgstr "Filas"
+
+#: src/Fields/LikertScale.php:379
+msgid "Add rows to the likert scale."
+msgstr "Añadir filas a la escala Likert."
+
+#: src/Fields/LikertScale.php:395
+msgid "Add likert scale row"
+msgstr "Añadir fila de escala Likert"
+
+#: src/Fields/LikertScale.php:396
+msgid "Remove likert scale row"
+msgstr "Quitar la fila de escala Likert"
+
+#: src/Fields/LikertScale.php:421
+msgid "Make this a single-row rating scale"
+msgstr "Hacer que esta sea una escala de clasificación de una sola fila"
+
+#: src/Fields/LikertScale.php:422
+msgid ""
+"Check this option to make this a single-row rating scale and remove the row "
+"choices."
+msgstr ""
+"Marca esta opción para hacer que esta sea una escala de clasificación de una"
+" sola fila y eliminar las opciones de fila."
+
+#: src/Fields/LikertScale.php:441
+msgid "Allow multiple responses per row"
+msgstr "Permitir varias respuestas por fila"
+
+#: src/Fields/LikertScale.php:442
+msgid ""
+"Check this option to allow multiple responses per row (uses checkboxes)."
+msgstr ""
+"Marca esta opción para permitir varias respuestas por fila (utiliza casillas"
+" de verificación)."
+
+#: src/Fields/LikertScale.php:456
+msgid "Columns"
+msgstr "Columnas"
+
+#: src/Fields/LikertScale.php:457
+msgid "Add columns to the likert scale."
+msgstr "Añadir columnas a la escala Likert."
+
+#: src/Fields/LikertScale.php:466
+msgid "Add likert scale column"
+msgstr "Añadir columna de escala Likert"
+
+#: src/Fields/LikertScale.php:467
+msgid "Remove likert scale column"
+msgstr "Quitar la columna de escala Likert"
+
+#: src/Fields/LikertScale.php514, src/Fields/NetPromoterScore.php:232
+msgid "Style"
+msgstr "Estilo"
+
+#: src/Fields/LikertScale.php:515
+msgid "Select the style for the likert scale."
+msgstr "Elige el estilo de la escala Likert."
+
+#: src/Fields/LikertScale.php526, src/Fields/NetPromoterScore.php:244
+msgid "Modern"
+msgstr "Moderno"
+
+#: src/Fields/LikertScale.php527, src/Fields/NetPromoterScore.php:245
+msgid "Classic"
+msgstr "Clásico"
+
+#: src/Fields/LikertScale.php:791
+msgid "(Empty)"
+msgstr "(Vacío)"
+
+#: src/Fields/NetPromoterScore.php24, src/Reporting/Admin.php680,
+#: src/Reporting/Fields.php:483
+msgid "Net Promoter Score"
+msgstr "Net Promoter Score"
+
+#: src/Fields/NetPromoterScore.php:233
+msgid "Select the style for the net promoter score."
+msgstr "Elige el estilo para la net promoter score."
+
+#: src/Fields/NetPromoterScore.php298, src/Fields/NetPromoterScore.php:345
+msgid "Not at all Likely"
+msgstr "No es probable"
+
+#: src/Fields/NetPromoterScore.php299, src/Fields/NetPromoterScore.php:346
+msgid "Extremely Likely"
+msgstr "Extremadamente probable"
+
+#: src/Fields/NetPromoterScore.php:392
+msgid "Invalid score; must be 0-10."
+msgstr "Puntuación no válida; debe ser 0-10."
+
+#: src/Reporting/Admin.php:327
+msgid "or"
+msgstr "o"
+
+#: src/Reporting/Admin.php:329
+msgid "View another question"
+msgstr "Ver otra pregunta"
+
+#: src/Reporting/Admin.php:468
+msgid "Back to All Entries"
+msgstr "Volver a todas las entradas"
+
+#: src/Reporting/Admin.php:472
+msgid "Select Form"
+msgstr "Seleccionar formulario"
+
+#: src/Reporting/Admin.php:480
+msgid "Open form selector"
+msgstr "Abrir selector de formularios"
+
+#: src/Reporting/Admin.php:503
+msgid "Edit This Form"
+msgstr "Editar este formulario"
+
+#: src/Reporting/Admin.php:507
+msgid "Preview Form"
+msgstr "Previsualizar formulario"
+
+#: src/Reporting/Admin.php:511
+msgid "Download Export (CSV)"
+msgstr "Descargar exportación (CSV)"
+
+#: src/Reporting/Admin.php:515
+msgid "Print Survey Report"
+msgstr "Imprimir informe de encuesta"
+
+#: src/Reporting/Admin.php:540
+msgid "WPForms Survey Print Preview"
+msgstr "Vista previa de impresión de WPForms Survey"
+
+#: src/Reporting/Admin.php:553
+msgid "Close"
+msgstr "Cerrar"
+
+#: src/Reporting/Admin.php554, src/Reporting/Admin.php:635
+msgid "Print"
+msgstr "Imprimir"
+
+#: src/Reporting/Admin.php:589
+msgid "Calculating Field Results"
+msgstr "Calculando de los resultados de campo"
+
+#: src/Reporting/Admin.php:592
+msgid "Calculating Survey Results"
+msgstr "Calculando de los resultados de la encuesta"
+
+#: src/Reporting/Admin.php:593
+msgid "We're crunching the numbers, this may take a minute."
+msgstr "Estamos analizando los números, esto puede tardar un minuto."
+
+#: src/Reporting/Admin.php:621
+msgid "Toggle displaying question"
+msgstr "Alternar el mostrar la pregunta"
+
+#: src/Reporting/Admin.php:630
+msgid "Export"
+msgstr "Exportar"
+
+#: src/Reporting/Admin.php:632
+msgid "Save as JPG"
+msgstr "Guardar como JPG"
+
+#: src/Reporting/Admin.php:633
+msgid "Save as PDF"
+msgstr "Guardar como PDF"
+
+#: src/Reporting/Admin.php:640
+msgid "View line chart"
+msgstr "Ver gráfico de líneas"
+
+#: src/Reporting/Admin.php:643
+msgid "View pie chart"
+msgstr "Ver gráfico circular"
+
+#: src/Reporting/Admin.php:646
+msgid "View horizontal bar chart"
+msgstr "Ver gráfico de barras horizontales"
+
+#: src/Reporting/Admin.php:649
+msgid "View bar chart"
+msgstr "Ver gráfico de barras"
+
+#: src/Reporting/Admin.php:654
+msgid "Question"
+msgstr "Pregunta"
+
+#: src/Reporting/Admin.php:661
+msgid "There are no answers to this question yet."
+msgstr "Todavía no hay respuestas a esta pregunta."
+
+#: src/Reporting/Admin.php:670
+msgid "Download Chart"
+msgstr "Descargar gráfico"
+
+#: src/Reporting/Admin.php:677
+msgid "Detractors (0-6)"
+msgstr "Detractores (0-6)"
+
+#: src/Reporting/Admin.php:678
+msgid "Passives (7-8)"
+msgstr "Pasivos (7-8)"
+
+#: src/Reporting/Admin.php:679
+msgid "Promoters (9-10)"
+msgstr "Promotores (9-10)"
+
+#: src/Reporting/Admin.php698, src/Reporting/Admin.php:751
+msgid "Answers"
+msgstr "Respuestas"
+
+#: src/Reporting/Admin.php:699
+msgid "Responses"
+msgstr "Respuestas"
+
+#: src/Reporting/Admin.php:752
+msgid "Date"
+msgstr "Fecha"
+
+#: src/Reporting/Admin.php:757
+msgid "View respondent's answers"
+msgstr "Ver respuestas del encuestado"
+
+#: src/Reporting/Admin.php:766
+msgid "Answered"
+msgstr "Contestadas"
+
+#: src/Reporting/Admin.php:771
+msgid "Average"
+msgstr "Media"
+
+#: src/Reporting/Admin.php:776
+msgid "Skipped"
+msgstr "Omitidas"
+
+#. translators: %s - number of stars.
+#: src/Reporting/Fields.php:117
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] "%s estrella"
+msgstr[1] "%s estrellas"
+
+#. translators: %s - number of hearts.
+#: src/Reporting/Fields.php:121
+msgid "%s heart"
+msgid_plural "%s hearts"
+msgstr[0] "%s corazón"
+msgstr[1] "%s corazones"
+
+#. translators: %s - number of thumbs.
+#: src/Reporting/Fields.php:125
+msgid "%s thumb"
+msgid_plural "%s thumbs"
+msgstr[0] "%s pulgar arriba"
+msgstr[1] "%s pulgares arriba"
+
+#. translators: %s - number of smileys.
+#: src/Reporting/Fields.php:129
+msgid "%s smiley"
+msgid_plural "%s smileys"
+msgstr[0] "%s Carita contenta"
+msgstr[1] "%s caras sonrientes"
+
+#: src/Reporting/Fields.php:455
+msgid "Single Line Text"
+msgstr "Texto de una sola línea"
+
+#: src/Reporting/Fields.php:459
+msgid "Paragraph Text"
+msgstr "Texto del párrafo"
+
+#: src/Reporting/Fields.php:463
+msgid "Dropdown"
+msgstr "Lista desplegable"
+
+#: src/Reporting/Fields.php:467
+msgid "Multiple Choice"
+msgstr "Opciones múltiple"
+
+#: src/Reporting/Fields.php:471
+msgid "Checkboxes"
+msgstr "Casillas"
+
+#: src/Reporting/Fields.php:475
+msgid "Rating"
+msgstr "Valoración"
+
+#: src/Templates/NPSSurveyEnhanced.php:23
+msgid "NPS Survey Enhanced Form"
+msgstr "Formulario mejorado de encuesta NPS"
+
+#: src/Templates/NPSSurveyEnhanced.php:25
+msgid ""
+"Measure customer loyalty and find out exactly what they are thinking with "
+"this enhanced Net Promoter Score survey template."
+msgstr ""
+"Mida la lealtad del cliente y averigua exactamente lo que están pensando con"
+" esta plantilla de encuesta mejorada de Net Promoter score."
+
+#: src/Templates/NPSSurveyEnhanced.php36, src/Templates/NPSSurveySimple.php:36
+msgid "How likely are you to recommend us to a friend or colleague?"
+msgstr "¿Cómo de probable es que nos recomiendes a un amigo o colega?"
+
+#: src/Templates/NPSSurveyEnhanced.php44, src/Templates/NPSSurveySimple.php:45
+msgid "How did we disappoint you and what can we do to make things right?"
+msgstr ""
+"¿En qué te hemos decepcionado y qué podemos hacer para hacer las cosas bien?"
+
+#: src/Templates/NPSSurveyEnhanced.php61, src/Templates/NPSSurveySimple.php:62
+msgid "What could we do to improve?"
+msgstr "¿Qué podemos hacer para mejorar?"
+
+#: src/Templates/NPSSurveyEnhanced.php:83
+msgid "What do you like most about us?"
+msgstr "¿Qué es lo que más te gusta de nosotros?"
+
+#: src/Templates/NPSSurveyEnhanced.php:100
+msgid "Would you be willing to provide us a testimonial?"
+msgstr "¿Estarías dispuesto a compartir tu testimonio?"
+
+#: src/Templates/NPSSurveyEnhanced.php:103
+msgid "Yes"
+msgstr "Sí"
+
+#: src/Templates/NPSSurveyEnhanced.php:107
+msgid "No"
+msgstr "No"
+
+#: src/Templates/NPSSurveyEnhanced.php:126
+msgid "What is your email address?"
+msgstr "¿Cuál es tu correo electrónico?"
+
+#: src/Templates/NPSSurveyEnhanced.php:127
+msgid ""
+"We'll use this to get in touch with you, so we can make things right - "
+"Thanks for giving us a chance 🙂"
+msgstr ""
+"Usaremos esto para ponernos en contacto contigo, para que podamos hacer las "
+"cosas bien - Gracias por darnos una oportunidad 🙂"
+
+#: src/Templates/NPSSurveyEnhanced.php150,
+#: src/Templates/NPSSurveySimple.php83, src/Templates/Survey.php:132
+msgid "Submit"
+msgstr "Enviar"
+
+#: src/Templates/NPSSurveyEnhanced.php153,
+#: src/Templates/NPSSurveySimple.php86, src/Templates/Poll.php72,
+#: src/Templates/Survey.php:135
+msgid "Sending..."
+msgstr "Enviando..."
+
+#: src/Templates/NPSSurveySimple.php:23
+msgid "NPS Survey Simple Form"
+msgstr "Formulario simple de NPS Survey"
+
+#: src/Templates/NPSSurveySimple.php:25
+msgid ""
+"Find out if your clients or customers would recommend you to someone else "
+"with this basic Net Promoter Score survey template."
+msgstr ""
+"Averigua si tus clientes o compradores te recomendarían a otra persona con "
+"esta plantilla de encuesta básica de Net Promoter Score."
+
+#: src/Templates/Poll.php:23
+msgid "Poll Form"
+msgstr "Formulario de votación"
+
+#: src/Templates/Poll.php:25
+msgid ""
+"Ask visitors a question and display the results after they provide an "
+"answer."
+msgstr ""
+"Haz una pregunta a los visitantes y muestra los resultados después de que "
+"den una respuesta."
+
+#: src/Templates/Poll.php:36
+msgid "What is your favorite color?"
+msgstr "¿Cuál es tu color favorito?"
+
+#: src/Templates/Poll.php:41
+msgid "Red"
+msgstr "Rojo"
+
+#: src/Templates/Poll.php:45
+msgid "Green"
+msgstr "Verde"
+
+#: src/Templates/Poll.php:49
+msgid "Blue"
+msgstr "Azul"
+
+#: src/Templates/Poll.php:53
+msgid "Orange"
+msgstr "Naranja"
+
+#: src/Templates/Poll.php:57
+msgid "Purple"
+msgstr "Púrpura"
+
+#: src/Templates/Poll.php:61
+msgid "Other"
+msgstr "Otro"
+
+#: src/Templates/Poll.php:68
+msgid "Vote"
+msgstr "Votar"
+
+#: src/Templates/Poll.php:71
+msgid "Thanks for voting! Results are below."
+msgstr "¡Gracias por votar! Los resultados se muestran a continuación."
+
+#: src/Templates/Survey.php:23
+msgid "Survey Form"
+msgstr "Formulario de encuesta"
+
+#: src/Templates/Survey.php:25
+msgid ""
+"Collect customer feedback, then generate survey reports to determine "
+"satisfaction and spot trends."
+msgstr ""
+"Recoge comentarios de los clientes y, a continuación genera informes de "
+"encuestas para determinar la satisfacción y detectar tendencias."
+
+#: src/Templates/Survey.php:36
+msgid "Name"
+msgstr "Nombre"
+
+#: src/Templates/Survey.php:44
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: src/Templates/Survey.php:52
+msgid "Your Experience"
+msgstr "Tu experiencia"
+
+#: src/Templates/Survey.php:53
+msgid "Overall, how would you rate your experience with us?"
+msgstr "En general, ¿cómo calificarías tu experiencia con nosotros?"
+
+#: src/Templates/Survey.php:63
+msgid "How can we improve?"
+msgstr "¿Cómo podemos mejorar?"
+
+#: src/Templates/Survey.php:64
+msgid ""
+"We're sorry you did not have a good experience. Please let us know how we "
+"can do better."
+msgstr ""
+"Lamentamos que no hayas tenido una buena experiencia. Por favor, haznos "
+"saber cómo podemos mejorar."
+
+#: src/Templates/Survey.php:89
+msgid "How satisfied are you with"
+msgstr "¿Cómo de satisfecho estás con"
+
+#: src/Templates/Survey.php:93
+msgid "Purchase"
+msgstr "Comprar"
+
+#: src/Templates/Survey.php:94
+msgid "Service"
+msgstr "Servicio"
+
+#: src/Templates/Survey.php:95
+msgid "Company Overall"
+msgstr "General de la empresa"
+
+#: src/Templates/Survey.php:98
+msgid "Very Unsatisfied"
+msgstr "Muy insatisfecho"
+
+#: src/Templates/Survey.php:99
+msgid "Unsatisfied"
+msgstr "Insatisfecho"
+
+#: src/Templates/Survey.php:101
+msgid "Satisfied"
+msgstr "Satisfecho"
+
+#: src/Templates/Survey.php:102
+msgid "Very Satisfied"
+msgstr "Muy satisfecho"
+
+#: src/Templates/Survey.php:108
+msgid "How likely are you to"
+msgstr "¿Cómo de probable es que"
+
+#: src/Templates/Survey.php:112
+msgid "Buy from us again"
+msgstr "Nos compres otra vez"
+
+#: src/Templates/Survey.php:113
+msgid "Recommend our product to others"
+msgstr "Recomiendes nuestro producto a otros"
+
+#: src/Templates/Survey.php:114
+msgid "Recommend our company to others"
+msgstr "Recomiendes nuestra empresa a otros"
+
+#: src/Templates/Survey.php:117
+msgid "Very Unlikely"
+msgstr "Muy impobable"
+
+#: src/Templates/Survey.php:118
+msgid "Unlikely"
+msgstr "Improbable"
+
+#: src/Templates/Survey.php:120
+msgid "Likely"
+msgstr "Probable"
+
+#: src/Templates/Survey.php:121
+msgid "Very Likely"
+msgstr "Muy probable"
+
+#: src/Templates/Survey.php:127
+msgid "Additional comments or suggestions"
+msgstr "Comentarios adicionales o sugerencias"
