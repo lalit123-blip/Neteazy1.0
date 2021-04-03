@@ -1,0 +1,58 @@
+.elementor-1636 .elementor-element.elementor-element-b790a0a{padding:0px 0px 0px 0px;}.elementor-1636 .elementor-element.elementor-element-cd03190 .elementor-repeater-item-718b753 .swiper-slide-bg{background-image:url(https://neteazy.testmxpertz.xyz/wp-content/uploads/2021/03/net6.jpg);background-size:cover;}.elementor-1636 .elementor-element.elementor-element-cd03190 .swiper-slide{height:338px;transition-duration:calc(6000ms*1.2);}.elementor-1636 .elementor-element.elementor-element-cd03190 .swiper-slide-contents{max-width:66%;}.elementor-1636 .elementor-element.elementor-element-cd03190 .swiper-slide-inner{text-align:center;}.elementor-1636 .elementor-element.elementor-element-cd03190 .elementor-slide-heading{font-family:"Helvetica", Sans-serif;font-size:50px;font-weight:normal;text-transform:uppercase;line-height:1.4em;}.elementor-1636 .elementor-element.elementor-element-cd03190 .elementor-slide-description{font-family:"Helvetica", Sans-serif;font-size:60px;font-weight:300;}.elementor-1636 .elementor-element.elementor-element-cd03190 .elementor-slide-button{font-family:"Helvetica", Sans-serif;font-size:20px;font-weight:normal;background-color:#0947AE;border-color:#0947AE;}.elementor-1636 .elementor-element.elementor-element-cd03190 .swiper-pagination-bullet{height:20px;width:20px;}.elementor-1636 .elementor-element.elementor-element-cd03190 .swiper-container-horizontal .swiper-pagination-progressbar{height:20px;}.elementor-1636 .elementor-element.elementor-element-cd03190 .swiper-pagination-fraction{font-size:20px;}.elementor-1636 .elementor-element.elementor-element-cd03190 .swiper-pagination-bullet-active{background-color:#0947AE;}.elementor-1636 .elementor-element.elementor-element-798f781{margin-top:20px;margin-bottom:20px;}.elementor-1636 .elementor-element.elementor-element-f0c819b{color:#707070;font-family:"Helvetica", Sans-serif;font-size:15px;font-weight:400;}.elementor-1636 .elementor-element.elementor-element-5acdbab{color:#707070;font-family:"Helvetica", Sans-serif;font-size:15px;font-weight:400;}.elementor-1636 .elementor-element.elementor-element-38e89d4{margin-top:20px;margin-bottom:20px;}@media(max-width:1024px){.elementor-1636 .elementor-element.elementor-element-cd03190 .swiper-slide-contents{max-width:100%;}.elementor-1636 .elementor-element.elementor-element-cd03190 .elementor-slide-heading{font-size:2.5rem;}.elementor-1636 .elementor-element.elementor-element-cd03190 .elementor-slide-button{font-size:1rem;}}@media(max-width:767px){.elementor-1636 .elementor-element.elementor-element-cd03190 .swiper-slide-contents{max-width:100%;}.elementor-1636 .elementor-element.elementor-element-cd03190 .elementor-slide-heading{font-size:1.5rem;}.elementor-1636 .elementor-element.elementor-element-cd03190 .elementor-slide-button{font-size:0.8rem;}}/* Start custom CSS */.d-flex{
+  display:flex;
+}
+.div1{
+  position:relative;
+  width:20%;
+  color: #1248F8;
+  z-index:1;
+}
+.div2{
+  text-align:left;
+  display: block;
+  margin-top: 20px;
+}
+.div1:before{
+  content:'';
+  position: absolute;
+  background-color: #1248F8;
+  height:2px;
+  width:95%;
+  top:7px;
+  left:10px;
+}
+.div1:after {
+    content: '.';
+    font-size: 116px;
+    top: -113px;
+    margin-left: -11px;
+    position: absolute;
+}
+.div2 h2 {
+    text-align: left;
+    letter-spacing: 0px;
+    color: #1248F8;
+    opacity: 1;
+    font-size: 40px;
+}
+
+.div2 p {
+    text-align: left;
+    letter-spacing: 0px;
+    color: #707070;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+ .div2 h2 {
+    font-size: 20px;
+}
+
+.div2 p {
+    font-size: 10px;
+}
+}/* End custom CSS */
