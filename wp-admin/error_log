@@ -1,0 +1,688 @@
+[01-Feb-2021 04:49:30 UTC] PHP Warning:  unlink(/home/atestwj9/neteazy.testmxpertz.xyz/wp-content/uploads/elementor/css/post-6.css): No such file or directory in /home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/elementor/core/files/manager.php on line 115
+[01-Feb-2021 04:49:30 UTC] PHP Warning:  unlink(/home/atestwj9/neteazy.testmxpertz.xyz/wp-content/uploads/elementor/css/post-7.css): No such file or directory in /home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/elementor/core/files/manager.php on line 115
+[01-Feb-2021 04:49:30 UTC] PHP Warning:  unlink(/home/atestwj9/neteazy.testmxpertz.xyz/wp-content/uploads/elementor/css/post-80.css): No such file or directory in /home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/elementor/core/files/manager.php on line 115
+[01-Feb-2021 04:49:30 UTC] PHP Warning:  unlink(/home/atestwj9/neteazy.testmxpertz.xyz/wp-content/uploads/elementor/css/post-85.css): No such file or directory in /home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/elementor/core/files/manager.php on line 115
+[10-Feb-2021 13:47:48 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 81920 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[10-Feb-2021 13:48:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 81920 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[14-Feb-2021 23:01:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 172032 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[14-Feb-2021 23:01:49 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 77824 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:29:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 143360 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:29:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 143360 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:29:46 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 163840 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:29:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 163840 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:30:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 163840 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:41:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 163840 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:42:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 163840 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:50:15 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 172032 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:50:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 172032 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:53:25 UTC] PHP Warning:  fopen(/home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php): failed to open stream: No such file or directory in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/functions.php on line 6109
+[15-Feb-2021 07:53:25 UTC] PHP Warning:  include_once(/home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php): failed to open stream: No such file or directory in /home/atestwj9/neteazy.testmxpertz.xyz/wp-admin/includes/plugin.php on line 1273
+[15-Feb-2021 07:53:25 UTC] PHP Warning:  include_once(): Failed opening '/home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/wp-live-chat-support/wp-live-chat-support.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/atestwj9/neteazy.testmxpertz.xyz/wp-admin/includes/plugin.php on line 1273
+[15-Feb-2021 07:53:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wplc_uninstall' not found or invalid function name in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/class-wp-hook.php on line 287
+[15-Feb-2021 07:53:25 UTC] PHP Warning:  strpos(): Empty needle in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/plugin.php on line 694
+[15-Feb-2021 07:55:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 143360 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:58:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 143360 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 07:59:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 143360 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 08:01:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 143360 bytes) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/wp-db.php on line 2022
+[15-Feb-2021 11:37:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/class-wp-image-editor-imagick.php on line 362
+[15-Feb-2021 11:38:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/class-wp-image-editor-imagick.php on line 362
+[15-Feb-2021 11:39:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/class-wp-image-editor-imagick.php on line 362
+[15-Feb-2021 11:39:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/class-wp-image-editor-imagick.php on line 362
+[08-Mar-2021 15:04:43 UTC] PHP Fatal error:  Cannot redeclare true_plugins_activate() (previously declared in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/functions.php:7800) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/functions.php on line 7859
+[08-Mar-2021 16:00:42 UTC] PHP Fatal error:  Cannot redeclare true_plugins_activate() (previously declared in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/functions.php:7800) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/functions.php on line 7859
+[09-Mar-2021 05:10:49 UTC] PHP Fatal error:  Cannot redeclare true_plugins_activate() (previously declared in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/functions.php:7800) in /home/atestwj9/neteazy.testmxpertz.xyz/wp-includes/functions.php on line 7859
+[17-Mar-2021 13:04:13 UTC] WordPress database error Unknown column 'wpeq_mlw_results' in 'where clause' for query select data_type from information_schema.columns where table_name = wpeq_mlw_results and column_name = 'point_score' made by require_once('wp-admin/admin.php'), do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, QSM_Install->update
+[25-Mar-2021 06:48:29 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 06:48:41 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 06:48:59 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 06:49:25 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 06:49:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 06:50:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 06:50:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 06:51:29 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 07:04:57 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 07:05:05 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 07:05:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 08:27:18 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 09:20:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 09:20:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 09:20:45 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 12:51:10 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245) AND date >= '2021-03-18 00:00:00' AND date <= '2021-03-24 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[25-Mar-2021 12:51:10 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 12:51:10 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245) AND date >= '2021-03-18 00:00:00' AND date <= '2021-03-24 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[25-Mar-2021 12:51:34 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 12:51:34 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[25-Mar-2021 12:51:40 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 05:06:35 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245) AND date >= '2021-03-19 00:00:00' AND date <= '2021-03-25 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[26-Mar-2021 05:06:36 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 05:06:37 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245) AND date >= '2021-03-19 00:00:00' AND date <= '2021-03-25 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[26-Mar-2021 05:15:31 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 05:53:05 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 05:54:25 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 05:54:48 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 06:14:20 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 06:14:20 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 06:14:29 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 06:53:41 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 06:56:25 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 06:56:46 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:03:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:03:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:03:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2399 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:03:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:04:12 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=0; made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:04:35 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:07:28 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:07:49 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:08:15 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:17:52 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 07:56:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 11:34:25 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[26-Mar-2021 12:26:48 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 05:39:51 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2399) AND date >= '2021-03-20 00:00:00' AND date <= '2021-03-26 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[27-Mar-2021 05:39:51 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 05:39:52 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2399) AND date >= '2021-03-20 00:00:00' AND date <= '2021-03-26 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[27-Mar-2021 06:11:38 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:01:00 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:01:00 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2399 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:01:00 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:01:08 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:08:31 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:08:43 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:09:16 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:09:17 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:09:45 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:09:45 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2499 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:09:45 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2399 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:09:45 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:10:08 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 07:59:02 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 08:11:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[27-Mar-2021 08:12:26 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 05:49:42 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2399,2499) AND date >= '2021-03-23 00:00:00' AND date <= '2021-03-29 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[30-Mar-2021 05:49:42 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 05:49:42 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2399,2499) AND date >= '2021-03-23 00:00:00' AND date <= '2021-03-29 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[30-Mar-2021 06:40:32 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:42:12 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:42:22 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:42:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:43:14 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:43:54 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:44:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:54:13 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:55:07 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:55:34 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:56:12 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:56:48 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:57:47 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:58:22 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:58:57 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:59:16 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 06:59:27 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:00:42 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:01:56 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:02:15 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:04:44 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:04:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:05:11 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:08:56 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:19:24 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:19:24 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2499 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:19:24 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2399 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:19:24 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:19:31 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:28:12 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 07:30:18 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 10:54:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2399,2499) AND date >= '2021-03-23 00:00:00' AND date <= '2021-03-29 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[30-Mar-2021 10:54:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 10:54:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2399,2499) AND date >= '2021-03-23 00:00:00' AND date <= '2021-03-29 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[30-Mar-2021 10:54:48 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 10:56:40 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 10:56:58 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 10:57:24 UTC] PHP Warning:  Declaration of WP_SimplePie_Blog_Item::get_id($hash = false) should be compatible with SimplePie_Item::get_id($hash = false, $fn = 'md5') in /home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/blogger-importer/blogger-importer-blogitem.php on line 25
+[30-Mar-2021 10:57:27 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 10:57:32 UTC] PHP Warning:  Declaration of WP_SimplePie_Blog_Item::get_id($hash = false) should be compatible with SimplePie_Item::get_id($hash = false, $fn = 'md5') in /home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/blogger-importer/blogger-importer-blogitem.php on line 25
+[30-Mar-2021 10:57:35 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 10:57:40 UTC] PHP Warning:  Declaration of WP_SimplePie_Blog_Item::get_id($hash = false) should be compatible with SimplePie_Item::get_id($hash = false, $fn = 'md5') in /home/atestwj9/neteazy.testmxpertz.xyz/wp-content/plugins/blogger-importer/blogger-importer-blogitem.php on line 25
+[30-Mar-2021 10:57:42 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 10:57:50 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[30-Mar-2021 10:57:56 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:25:30 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2399,2499) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[01-Apr-2021 05:25:30 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:25:32 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2399,2499) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[01-Apr-2021 05:26:52 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:26:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:26:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2499 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:26:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2399 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:26:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:26:55 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:26:55 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2499 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:26:55 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2399 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:26:55 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:27:03 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399,2499 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:42:30 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query DELETE FROM wpeq_wpforms_entries WHERE form_id = '2499' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 05:42:30 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entry_meta' doesn't exist for query DELETE FROM wpeq_wpforms_entry_meta WHERE form_id = '2499' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 05:42:30 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entry_fields' doesn't exist for query DELETE FROM wpeq_wpforms_entry_fields WHERE form_id = '2499' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 05:42:33 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2399 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:42:33 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2399 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:42:33 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:43:42 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query DELETE FROM wpeq_wpforms_entries WHERE form_id = '2399' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 05:43:42 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entry_meta' doesn't exist for query DELETE FROM wpeq_wpforms_entry_meta WHERE form_id = '2399' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 05:43:42 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entry_fields' doesn't exist for query DELETE FROM wpeq_wpforms_entry_fields WHERE form_id = '2399' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 05:43:45 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:43:45 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:43:50 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:45:50 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 05:55:22 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 06:11:48 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2683) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[01-Apr-2021 06:11:48 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 06:11:48 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2683) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[01-Apr-2021 08:25:27 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:25:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:26:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:27:38 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:27:57 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:28:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:30:00 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:30:13 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:30:25 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:30:38 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:31:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:31:29 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:32:22 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:32:36 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:32:36 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2683 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:32:36 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:32:42 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2683 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:32:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query DELETE FROM wpeq_wpforms_entries WHERE form_id = '2683' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 08:32:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entry_meta' doesn't exist for query DELETE FROM wpeq_wpforms_entry_meta WHERE form_id = '2683' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 08:32:53 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entry_fields' doesn't exist for query DELETE FROM wpeq_wpforms_entry_fields WHERE form_id = '2683' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 08:32:56 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:32:56 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:33:01 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:33:12 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2689 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:35:18 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2689 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:37:49 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2689 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 08:38:14 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2689 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 11:11:52 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2689) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[01-Apr-2021 11:11:52 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2689 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 11:11:52 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2689) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[01-Apr-2021 11:11:59 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2689 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 11:11:59 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2689 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 11:11:59 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 11:12:05 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2689 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 11:14:20 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query DELETE FROM wpeq_wpforms_entries WHERE form_id = '2689' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 11:14:20 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entry_meta' doesn't exist for query DELETE FROM wpeq_wpforms_entry_meta WHERE form_id = '2689' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 11:14:20 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entry_fields' doesn't exist for query DELETE FROM wpeq_wpforms_entry_fields WHERE form_id = '2689' made by do_action('load-toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->process_bulk_actions, WPForms_Overview->bulk_action_delete_forms, WPForms_Form_Handler->delete, WPForms_DB->delete_by
+[01-Apr-2021 11:14:23 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 11:14:23 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 11:14:28 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:40:46 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[01-Apr-2021 12:40:46 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:40:46 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[01-Apr-2021 12:40:55 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:40:55 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:41:03 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:41:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:41:33 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:42:07 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2698) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[01-Apr-2021 12:42:08 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:42:08 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2698) AND date >= '2021-03-25 00:00:00' AND date <= '2021-03-31 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[01-Apr-2021 12:42:14 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:42:24 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:43:33 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:43:39 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 12:44:12 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 13:00:55 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 13:01:01 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 13:01:11 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 13:07:56 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 13:08:02 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 13:08:05 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[01-Apr-2021 13:09:07 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:22:06 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT CAST(date AS DATE) as day, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2698) AND date >= '2021-03-27 00:00:00' AND date <= '2021-04-02 23:59:59' GROUP BY day; made by require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms\Pro\Admin\DashboardWidget->widget_scripts, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_date_sql
+[03-Apr-2021 05:22:07 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:22:08 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT form_id, COUNT(entry_id) as count
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND form_id IN (2245,2698) AND date >= '2021-03-27 00:00:00' AND date <= '2021-04-02 23:59:59'GROUP BY form_id ORDER BY count DESC; made by wp_dashboard, do_meta_boxes, WPForms\Pro\Admin\DashboardWidget->widget_content, WPForms\Pro\Admin\DashboardWidget->widget_content_html, WPForms\Pro\Admin\DashboardWidget->forms_list_block, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by, WPForms\Pro\Admin\DashboardWidget->get_entries_count_by_form_sql
+[03-Apr-2021 05:22:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:22:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2698 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:22:19 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:22:35 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:22:50 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:03 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:03 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2698 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:03 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:10 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:31 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:31 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2698 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:31 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245 ); made by do_action('toplevel_page_wpforms-overview'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Admin_Menu->admin_page, do_action('wpforms_admin_page'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Overview->output, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WPForms_Overview_Table->display_rows, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, WPForms_Overview_Table->column_default, apply_filters('wpforms_overview_table_column_value'), WP_Hook->apply_filters, WPForms_Pro->form_table_columns_value, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:34 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:45 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:23:57 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698,2710 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:27:13 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698,2710 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
+[03-Apr-2021 05:27:20 UTC] WordPress database error Table 'atestwj9_wp48.wpeq_wpforms_entries' doesn't exist for query SELECT COUNT(wpeq_wpforms_entries.entry_id) 
+				FROM wpeq_wpforms_entries
+				WHERE 1=1 AND wpeq_wpforms_entries.form_id IN ( 2245,2698,2710 ); made by require_once('wp-admin/admin-header.php'), do_action('admin_notices'), WP_Hook->do_action, WP_Hook->apply_filters, WPForms_Review->review_request, WPForms_Review->review, WPForms_Entry_Handler->get_entries
